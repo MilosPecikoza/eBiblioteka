@@ -1,0 +1,1 @@
+INSERT INTO radnik(imePrezime,username,password,ulogaID) VALUES ('test','test','test',2)
