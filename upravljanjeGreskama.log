@@ -1,0 +1,83 @@
+[15-Feb-2018 21:19:19 UTC] PHP Notice:  Undefined variable: podaci in C:\wamp\www\ebiblioteka\dodajRadnika.php on line 85
+[15-Feb-2018 21:19:19 UTC] PHP Stack trace:
+[15-Feb-2018 21:19:19 UTC] PHP   1. {main}() C:\wamp\www\ebiblioteka\dodajRadnika.php:0
+[15-Feb-2018 21:19:19 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in C:\wamp\www\ebiblioteka\dodajRadnika.php on line 94
+[15-Feb-2018 21:19:19 UTC] PHP Stack trace:
+[15-Feb-2018 21:19:19 UTC] PHP   1. {main}() C:\wamp\www\ebiblioteka\dodajRadnika.php:0
+[15-Feb-2018 21:19:42 UTC] PHP Notice:  Undefined variable: podaci in C:\wamp\www\ebiblioteka\dodajRadnika.php on line 85
+[15-Feb-2018 21:19:42 UTC] PHP Stack trace:
+[15-Feb-2018 21:19:42 UTC] PHP   1. {main}() C:\wamp\www\ebiblioteka\dodajRadnika.php:0
+[15-Feb-2018 21:36:15 UTC] PHP Notice:  Undefined index: ulogaID in C:\wamp\www\ebiblioteka\dodajRadnika.php on line 7
+[15-Feb-2018 21:36:15 UTC] PHP Stack trace:
+[15-Feb-2018 21:36:15 UTC] PHP   1. {main}() C:\wamp\www\ebiblioteka\dodajRadnika.php:0
+[15-Feb-2018 21:36:15 UTC] PHP Notice:  Undefined variable: podaci in C:\wamp\www\ebiblioteka\dodajRadnika.php on line 85
+[15-Feb-2018 21:36:15 UTC] PHP Stack trace:
+[15-Feb-2018 21:36:15 UTC] PHP   1. {main}() C:\wamp\www\ebiblioteka\dodajRadnika.php:0
+[21-Apr-2018 12:46:18 UTC] PHP Warning:  fopen(C:\wamp\www\ebiblioteka\pdf/font/unifont/DejaVuSansCondensed.ttf): failed to open stream: No such file or directory in C:\wamp64\www\ebibliotekaNjegova\pdf\font\unifont\ttfonts.php on line 496
+[21-Apr-2018 12:46:18 UTC] PHP Stack trace:
+[21-Apr-2018 12:46:18 UTC] PHP   1. {main}() C:\wamp64\www\ebibliotekaNjegova\generisiPDF.php:0
+[21-Apr-2018 12:46:18 UTC] PHP   2. tFPDF->Output() C:\wamp64\www\ebibliotekaNjegova\generisiPDF.php:37
+[21-Apr-2018 12:46:18 UTC] PHP   3. tFPDF->Close() C:\wamp64\www\ebibliotekaNjegova\pdf\tfpdf.php:1190
+[21-Apr-2018 12:46:18 UTC] PHP   4. tFPDF->_enddoc() C:\wamp64\www\ebibliotekaNjegova\pdf\tfpdf.php:305
+[21-Apr-2018 12:46:18 UTC] PHP   5. tFPDF->_putresources() C:\wamp64\www\ebibliotekaNjegova\pdf\tfpdf.php:2222
+[21-Apr-2018 12:46:18 UTC] PHP   6. tFPDF->_putfonts() C:\wamp64\www\ebibliotekaNjegova\pdf\tfpdf.php:2159
+[21-Apr-2018 12:46:18 UTC] PHP   7. TTFontFile->makeSubset() C:\wamp64\www\ebibliotekaNjegova\pdf\tfpdf.php:1856
+[21-Apr-2018 12:46:18 UTC] PHP   8. fopen() C:\wamp64\www\ebibliotekaNjegova\pdf\font\unifont\ttfonts.php:496
+[21-Apr-2018 12:47:05 UTC] PHP Warning:  fopen(C:\wamp\www\ebiblioteka\pdf/font/unifont/DejaVuSansCondensed.ttf): failed to open stream: No such file or directory in C:\wamp64\www\ebiblioteka\pdf\font\unifont\ttfonts.php on line 496
+[21-Apr-2018 12:47:05 UTC] PHP Stack trace:
+[21-Apr-2018 12:47:05 UTC] PHP   1. {main}() C:\wamp64\www\ebiblioteka\generisiPDF.php:0
+[21-Apr-2018 12:47:05 UTC] PHP   2. tFPDF->Output() C:\wamp64\www\ebiblioteka\generisiPDF.php:37
+[21-Apr-2018 12:47:05 UTC] PHP   3. tFPDF->Close() C:\wamp64\www\ebiblioteka\pdf\tfpdf.php:1190
+[21-Apr-2018 12:47:05 UTC] PHP   4. tFPDF->_enddoc() C:\wamp64\www\ebiblioteka\pdf\tfpdf.php:305
+[21-Apr-2018 12:47:05 UTC] PHP   5. tFPDF->_putresources() C:\wamp64\www\ebiblioteka\pdf\tfpdf.php:2222
+[21-Apr-2018 12:47:05 UTC] PHP   6. tFPDF->_putfonts() C:\wamp64\www\ebiblioteka\pdf\tfpdf.php:2159
+[21-Apr-2018 12:47:05 UTC] PHP   7. TTFontFile->makeSubset() C:\wamp64\www\ebiblioteka\pdf\tfpdf.php:1856
+[21-Apr-2018 12:47:05 UTC] PHP   8. fopen() C:\wamp64\www\ebiblioteka\pdf\font\unifont\ttfonts.php:496
+[02-Aug-2019 14:57:09 UTC] PHP Notice:  Undefined variable: podaci in C:\wamp64\www\ebibliotekaNjegova\dodajRadnika.php on line 85
+[02-Aug-2019 14:57:09 UTC] PHP Stack trace:
+[02-Aug-2019 14:57:09 UTC] PHP   1. {main}() C:\wamp64\www\ebibliotekaNjegova\dodajRadnika.php:0
+[02-Aug-2019 14:57:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\wamp64\www\ebibliotekaNjegova\dodajRadnika.php on line 92
+[02-Aug-2019 14:57:09 UTC] PHP Stack trace:
+[02-Aug-2019 14:57:09 UTC] PHP   1. {main}() C:\wamp64\www\ebibliotekaNjegova\dodajRadnika.php:0
+[02-Aug-2019 15:20:42 UTC] PHP Notice:  Undefined variable: podaci in C:\wamp64\www\ebibliotekaNjegova\dodajRadnika.php on line 85
+[02-Aug-2019 15:20:42 UTC] PHP Stack trace:
+[02-Aug-2019 15:20:42 UTC] PHP   1. {main}() C:\wamp64\www\ebibliotekaNjegova\dodajRadnika.php:0
+[02-Aug-2019 15:20:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\wamp64\www\ebibliotekaNjegova\dodajRadnika.php on line 92
+[02-Aug-2019 15:20:42 UTC] PHP Stack trace:
+[02-Aug-2019 15:20:42 UTC] PHP   1. {main}() C:\wamp64\www\ebibliotekaNjegova\dodajRadnika.php:0
+[02-Aug-2019 15:21:01 UTC] PHP Notice:  Undefined variable: podaci in C:\wamp64\www\ebibliotekaNjegova\dodajRadnika.php on line 85
+[02-Aug-2019 15:21:01 UTC] PHP Stack trace:
+[02-Aug-2019 15:21:01 UTC] PHP   1. {main}() C:\wamp64\www\ebibliotekaNjegova\dodajRadnika.php:0
+[02-Aug-2019 15:21:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\wamp64\www\ebibliotekaNjegova\dodajRadnika.php on line 92
+[02-Aug-2019 15:21:01 UTC] PHP Stack trace:
+[02-Aug-2019 15:21:01 UTC] PHP   1. {main}() C:\wamp64\www\ebibliotekaNjegova\dodajRadnika.php:0
+[22-Dec-2019 14:54:28 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; TTFontFile has a deprecated constructor in C:\wamp64\www\ebibliotekaNjegova\pdf\font\unifont\ttfonts.php on line 38
+[22-Dec-2019 14:54:28 UTC] PHP Stack trace:
+[22-Dec-2019 14:54:28 UTC] PHP   1. {main}() C:\wamp64\www\ebibliotekaNjegova\generisiPDF.php:0
+[22-Dec-2019 14:54:28 UTC] PHP   2. tFPDF->Output() C:\wamp64\www\ebibliotekaNjegova\generisiPDF.php:37
+[22-Dec-2019 14:54:28 UTC] PHP   3. tFPDF->Close() C:\wamp64\www\ebibliotekaNjegova\pdf\tfpdf.php:1190
+[22-Dec-2019 14:54:28 UTC] PHP   4. tFPDF->_enddoc() C:\wamp64\www\ebibliotekaNjegova\pdf\tfpdf.php:305
+[22-Dec-2019 14:54:28 UTC] PHP   5. tFPDF->_putresources() C:\wamp64\www\ebibliotekaNjegova\pdf\tfpdf.php:2222
+[22-Dec-2019 14:54:28 UTC] PHP   6. tFPDF->_putfonts() C:\wamp64\www\ebibliotekaNjegova\pdf\tfpdf.php:2159
+[22-Dec-2019 14:54:28 UTC] PHP Warning:  fopen(C:\wamp\www\ebiblioteka\pdf/font/unifont/DejaVuSansCondensed.ttf): failed to open stream: No such file or directory in C:\wamp64\www\ebibliotekaNjegova\pdf\font\unifont\ttfonts.php on line 496
+[22-Dec-2019 14:54:28 UTC] PHP Stack trace:
+[22-Dec-2019 14:54:28 UTC] PHP   1. {main}() C:\wamp64\www\ebibliotekaNjegova\generisiPDF.php:0
+[22-Dec-2019 14:54:28 UTC] PHP   2. tFPDF->Output() C:\wamp64\www\ebibliotekaNjegova\generisiPDF.php:37
+[22-Dec-2019 14:54:28 UTC] PHP   3. tFPDF->Close() C:\wamp64\www\ebibliotekaNjegova\pdf\tfpdf.php:1190
+[22-Dec-2019 14:54:28 UTC] PHP   4. tFPDF->_enddoc() C:\wamp64\www\ebibliotekaNjegova\pdf\tfpdf.php:305
+[22-Dec-2019 14:54:28 UTC] PHP   5. tFPDF->_putresources() C:\wamp64\www\ebibliotekaNjegova\pdf\tfpdf.php:2222
+[22-Dec-2019 14:54:28 UTC] PHP   6. tFPDF->_putfonts() C:\wamp64\www\ebibliotekaNjegova\pdf\tfpdf.php:2159
+[22-Dec-2019 14:54:28 UTC] PHP   7. TTFontFile->makeSubset() C:\wamp64\www\ebibliotekaNjegova\pdf\tfpdf.php:1856
+[22-Dec-2019 14:54:28 UTC] PHP   8. fopen() C:\wamp64\www\ebibliotekaNjegova\pdf\font\unifont\ttfonts.php:496
+[22-Dec-2019 14:55:38 UTC] PHP Notice:  Undefined variable: podaci in C:\wamp64\www\ebibliotekaNjegova\dodajRadnika.php on line 85
+[22-Dec-2019 14:55:38 UTC] PHP Stack trace:
+[22-Dec-2019 14:55:38 UTC] PHP   1. {main}() C:\wamp64\www\ebibliotekaNjegova\dodajRadnika.php:0
+[22-Dec-2019 14:55:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\wamp64\www\ebibliotekaNjegova\dodajRadnika.php on line 92
+[22-Dec-2019 14:55:38 UTC] PHP Stack trace:
+[22-Dec-2019 14:55:38 UTC] PHP   1. {main}() C:\wamp64\www\ebibliotekaNjegova\dodajRadnika.php:0
+[22-Dec-2019 14:58:01 UTC] PHP Notice:  Undefined variable: podaci in C:\wamp64\www\ebibliotekaNjegova\dodajRadnika.php on line 85
+[22-Dec-2019 14:58:01 UTC] PHP Stack trace:
+[22-Dec-2019 14:58:01 UTC] PHP   1. {main}() C:\wamp64\www\ebibliotekaNjegova\dodajRadnika.php:0
+[22-Dec-2019 14:58:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\wamp64\www\ebibliotekaNjegova\dodajRadnika.php on line 92
+[22-Dec-2019 14:58:01 UTC] PHP Stack trace:
+[22-Dec-2019 14:58:01 UTC] PHP   1. {main}() C:\wamp64\www\ebibliotekaNjegova\dodajRadnika.php:0
